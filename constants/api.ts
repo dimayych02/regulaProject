@@ -1,0 +1,1 @@
+export const FACE_DETECTION_MESSAGE = 'FACER_OK';
